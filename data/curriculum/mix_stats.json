@@ -1,0 +1,28 @@
+{
+  "rows": 69546,
+  "stages": {
+    "s1": {
+      "train": 26949,
+      "val": 549
+    },
+    "s2": {
+      "train": 23363,
+      "val": 476
+    },
+    "s3": {
+      "train": 17845,
+      "val": 364
+    }
+  },
+  "kinds": {
+    "agentic": 20385,
+    "prose": 10080,
+    "code": 18209,
+    "reason": 6291,
+    "honesty": 7293,
+    "ethics": 3511,
+    "companion": 3777
+  },
+  "tool_coverage": 0.343,
+  "persona_share": 0.387
+}
